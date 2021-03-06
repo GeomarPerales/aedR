@@ -6,8 +6,8 @@ AedR es una librería que contiene datos de 22 estaciones del Perú y series men
 ## Contenido
 
 - Técnicas de exploración de datos:
-#- Histograma
-#- Diagrama de cajas
+>- Histograma
+>- Diagrama de cajas
 
 
 ## Referencias
