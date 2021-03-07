@@ -13,3 +13,5 @@ Algunas de las técnicas de exploración de datos son:
 * Series de tiempo
 
 ## Referencias
+
+* Pathak, M. (2014). Beginning Data Science with R.
