@@ -1,4 +1,4 @@
-#' Datos históricos de estaciones del Perú (SENAMHI).
+#' Datos historicos de estaciones del Peru (SENAMHI).
 #'
 #' Un conjunto de datos de 22 series históricas de estaciones del Perú (SENAMHI).
 #'

@@ -1,4 +1,5 @@
-#' Información no disponible
+#' funcion para obtener la Informacion no disponible (NA's) de un conjunto de
+#' series de tiempo.
 #'
 #' @param data conjunto de datos (dataframe) de series mensuales.
 #' @param estaciones conjunto de datos (dataframe) de las estaciones.

@@ -1,4 +1,4 @@
-#' Diagrama de cajas (Boxplot) para AED mensual.
+#' Funcion para obtener el Diagrama de cajas (Boxplot) para AED mensual.
 #'
 #' @param data conjunto de datos (dataframe) de series mensuales.
 #' @param estaciones conjunto de datos (dataframe) de las estaciones.

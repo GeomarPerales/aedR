@@ -1,4 +1,4 @@
-#' Serie de tiempo mensual para AED.
+#' Funcion para obtener la Serie de tiempo mensual para AED.
 #'
 #' @param data conjunto de datos (dataframe) de series mensuales.
 #' @param estaciones conjunto de datos (dataframe) de las estaciones.
