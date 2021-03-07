@@ -33,9 +33,13 @@ Fig. 1: Cuenca Huarpa.
 
   ![ScreenShot](images/cuenca.jpg?raw=true#center)
 
+Fuente: Elaboración propia.
+
 Fig.2: red de estaciones de la cuenca Huarpa.
 
   ![ScreenShot](images/stations.jpg?raw=true#center)
+  
+Fuente: Elaboración propia.
 
 ## Referencias
 
