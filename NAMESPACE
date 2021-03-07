@@ -2,8 +2,11 @@
 
 export(bp.aed)
 export(infna)
+export(infout)
+export(rest)
 export(ts.aed)
 importFrom(formattable,percent)
+importFrom(grDevices,dev.off)
 importFrom(graphics,plot)
 importFrom(stats,plot.ts)
 importFrom(stats,ts)
