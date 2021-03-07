@@ -17,3 +17,4 @@ Algunas de las técnicas de exploración de datos son:
 ## Referencias
 
 * Pathak, M. (2014). Beginning Data Science with R.
+* Zumel, N., Mount, J. (2014). Practical Data Science with R.
