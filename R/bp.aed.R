@@ -1,6 +1,5 @@
 #' Diagrama de cajas (Boxplot) para AED mensual.
 #'
-#'
 #' @param data conjunto de datos (dataframe) de series mensuales.
 #' @param estaciones conjunto de datos (dataframe) de las estaciones.
 #' @param i N° de orden (integer) de la estación
@@ -57,6 +56,7 @@ bp.aed <- function( data, estaciones, i = NULL, col = NULL, variable = NULL, um 
     stop("unidad de medida no definida")
   }
   colnames(data)[1] <- "Fecha"
+  colnames(estaciones)[1] <- "Estacion"
   bp.data <- data.frame( data, meses = months(data$Fecha,3))
   meses <- factor(bp.data$meses, levels = unique(months(bp.data$Fecha,3)))
   plot(x = meses, y = bp.data[,i], xlab = "Tiempo (meses)",

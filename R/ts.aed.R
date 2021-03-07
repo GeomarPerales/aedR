@@ -1,6 +1,5 @@
 #' Serie de tiempo mensual para AED.
 #'
-#'
 #' @param data conjunto de datos (dataframe) de series mensuales.
 #' @param estaciones conjunto de datos (dataframe) de las estaciones.
 #' @param i N° de orden (integer) de la estación
@@ -58,6 +57,7 @@ ts.aed <- function( data, estaciones, i = NULL, col = NULL, variable = NULL, um 
     stop("unidad de medida no definida")
   }
   colnames(data)[1] <- "Fecha"
+  colnames(estaciones)[1] <- "Estacion"
   ts.data <- as.vector(data[,i])
   year <- as.numeric(substr(data$Fecha[1],1,4))
   mes <- abs(as.numeric(substr(data$Fecha[1],5,7)))
