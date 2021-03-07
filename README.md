@@ -6,11 +6,11 @@ AedR es una librería que contiene algunas herramientas gráficas y de resumen e
 
 ## Instalación
 
+Para instalar la librería **aedR**, escriba las siguientes instrucciones en la consola de R:
+```	
+> library(devtools)
+> install_github("GeomarPerales/aedR")		
 ```
-		
-		//> library(devtools)
-		
-		```
 
 ## Contenido
 
