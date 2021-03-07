@@ -2,7 +2,7 @@
 
 ## Introducción
 
-AedR es una librería que contiene contiene algunas herramientas gráficas y de resumen estadístico para realizar análisis exploratorio de datos.
+AedR es una librería que contiene algunas herramientas gráficas y de resumen estadístico para realizar análisis exploratorio de datos.
 
 ## Contenido
 
@@ -17,9 +17,16 @@ datos de 22 estaciones del Perú y series mensuales históricas de precipitació
 
 ## Datos
 
-AedR cuenta con dos conjuntos de datos: un marco de datos de 22 series históricas de mensuales y otro de estaciones correspondientes a las series históricas mensuales. Los datos fueron descargados de la red de estaciones del SENAMHI y mensualizados. 
+AedR cuenta con dos conjuntos de datos: un marco de datos de 22 series históricas de mensuales y otro de estaciones correspondientes a las series históricas mensuales. Los datos fueron descargados de la red de estaciones del SENAMHI y mensualizados.
+
+Las estaciones corresponden a la zona de estudio de la cuenca Huarpa, ubicada entre los
+departamentos de Ayacucho y Huancavelica, en Perú.
+
+![Alt text](/Cuenca.PNG?raw=true "Cuenca Huarpa")
 
 ## Referencias
 
 * Pathak, M. (2014). Beginning Data Science with R.
 * Zumel, N., Mount, J. (2014). Practical Data Science with R.
+
+ 
