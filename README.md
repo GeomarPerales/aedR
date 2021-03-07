@@ -1,4 +1,4 @@
-# aedR
+# **aedR: Análisis exploratorio de datos en R**
 
 ## Introducción
 
