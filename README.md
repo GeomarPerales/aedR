@@ -8,9 +8,11 @@ AedR es una librería que contiene datos de 22 estaciones del Perú y series men
 
 Algunas de las técnicas de exploración de datos son:
 
-* Histograma
 * Diagrama de cajas
 * Series de tiempo
+* Resumen estadístico: minimo, 1° cuartil, fecha del máximo, 3° cuartil, máximo.
+* Información no disponible
+* Información de datos dudosos (outliers).
 
 ## Referencias
 
