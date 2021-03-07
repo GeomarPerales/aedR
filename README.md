@@ -30,10 +30,12 @@ AedR cuenta con dos conjuntos de datos: un marco de datos de 22 series históric
 Las estaciones corresponden a la zona de estudio de la cuenca Huarpa, ubicada entre los departamentos de Ayacucho y Huancavelica, en Perú.
 
 Fig. 1: Cuenca Huarpa
+
 ![ScreenShot](images/cuenca.jpg?raw=true#center)
 
-Fig.2: red de estaciones de la cuenca Huarpa
 La red de estaciones utilizada fue recolectada de la web del SENAMHI y ANA.
+
+Fig.2: red de estaciones de la cuenca Huarpa
 
 ![ScreenShot](images/stations.jpg?raw=true#center)
 
