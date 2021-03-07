@@ -28,16 +28,12 @@ datos de 22 estaciones del Perú y series mensuales históricas de precipitació
 AedR cuenta con dos conjuntos de datos: un marco de datos de 22 series históricas de mensuales y otro de estaciones correspondientes a las series históricas mensuales. Los datos fueron descargados de la red de estaciones del SENAMHI y mensualizados.
 
 Las estaciones corresponden a la zona de estudio de la cuenca Huarpa, ubicada entre los departamentos de Ayacucho y Huancavelica, en Perú.
-**Align center:**
-<p align="center" width="100%">
-    <img width="33%" src="https://github.com/GeomarPerales/aedR/tree/main/images/cuenca.jpg"> 
-</p>
 
-
+![ScreenShot](images/cuenca.jpg?raw=true "Cuenca Huarpa"#center)
 
 La red de estaciones utilizada fue recolectada de la web del SENAMHI y ANA.
-<p align="center" width="100%">
-![ScreenShot](images/stations.jpg?raw=true "red de estaciones de la Cuenca Huarpa")
+
+![ScreenShot](images/stations.jpg?raw=true "red de estaciones de la Cuenca Huarpa"#center)
 
 ## Referencias
 
