@@ -4,11 +4,6 @@
 
 AedR es una librería que contiene algunas herramientas gráficas y de resumen estadístico para realizar análisis exploratorio de datos.
 
-## Instalación
-
-> library(devtools)
-> install_github("GeomarPerales/aedR")
-
 ## Contenido
 
 Algunas de las técnicas de exploración de datos son:
@@ -27,8 +22,7 @@ AedR cuenta con dos conjuntos de datos: un marco de datos de 22 series históric
 Las estaciones corresponden a la zona de estudio de la cuenca Huarpa, ubicada entre los
 departamentos de Ayacucho y Huancavelica, en Perú.
 
-![ScreenShot](D:/Geomar/2-CODE/2.2-R/aedR/Cuenca.jpg)
-
+![Alt text](D:/Geomar/2-CODE/2.2-R/aedR/Cuenca.jpg?raw=true)
 ## Referencias
 
 * Pathak, M. (2014). Beginning Data Science with R.
