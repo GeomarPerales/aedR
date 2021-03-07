@@ -35,6 +35,12 @@ La red de estaciones utilizada fue recolectada de la web del SENAMHI y ANA.
 
 ![ScreenShot](images/stations.jpg?raw=true#center)
 
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/GeomarPerales/aedR/tree/main/images/stations.jpg">
+</p>
+
+
 ## Referencias
 
 * Pathak, M. (2014). Beginning Data Science with R.
