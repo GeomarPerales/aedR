@@ -4,6 +4,11 @@
 
 AedR es una librería que contiene algunas herramientas gráficas y de resumen estadístico para realizar análisis exploratorio de datos.
 
+## Instalación
+
+> library(devtools)
+> install_github("GeomarPerales/aedR")
+
 ## Contenido
 
 Algunas de las técnicas de exploración de datos son:
