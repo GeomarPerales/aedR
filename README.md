@@ -36,8 +36,8 @@ Las estaciones corresponden a la zona de estudio de la cuenca Huarpa, ubicada en
 
 
 La red de estaciones utilizada fue recolectada de la web del SENAMHI y ANA.
-
-![ScreenShot](images/stations.jpg?raw=true "red de estaciones de la Cuenca Huarpa" | width=100)
+<p align="center" width="100%">
+![ScreenShot](images/stations.jpg?raw=true "red de estaciones de la Cuenca Huarpa")
 
 ## Referencias
 
