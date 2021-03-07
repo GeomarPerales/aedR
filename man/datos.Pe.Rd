@@ -3,7 +3,7 @@
 \docType{data}
 \name{datos.Pe}
 \alias{datos.Pe}
-\title{Datos históricos de estaciones del Perú (SENAMHI).}
+\title{Datos historicos de estaciones del Peru (SENAMHI).}
 \format{
 un marco de datos con 22 series de tiempo mensuales. La primera fila
 corresponde a la fecha, las siguientes corresponden a las series de tiempo mensuales.

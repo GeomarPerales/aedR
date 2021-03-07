@@ -2,7 +2,7 @@
 % Please edit documentation in R/bp.aed.R
 \name{bp.aed}
 \alias{bp.aed}
-\title{Diagrama de cajas (Boxplot) para AED mensual.}
+\title{Funcion para obtener el Diagrama de cajas (Boxplot) para AED mensual.}
 \usage{
 bp.aed(data, estaciones, i = NULL, col = NULL, variable = NULL, um = NULL)
 }
@@ -20,5 +20,5 @@ bp.aed(data, estaciones, i = NULL, col = NULL, variable = NULL, um = NULL)
 \item{um}{unidad de medida. ejm.: mm (Precipitación).}
 }
 \description{
-Diagrama de cajas (Boxplot) para AED mensual.
+Funcion para obtener el Diagrama de cajas (Boxplot) para AED mensual.
 }

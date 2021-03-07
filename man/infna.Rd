@@ -2,7 +2,8 @@
 % Please edit documentation in R/infna.R
 \name{infna}
 \alias{infna}
-\title{Información no disponible}
+\title{funcion para obtener la Informacion no disponible (NA's) de un conjunto de
+series de tiempo.}
 \usage{
 infna(data, estaciones)
 }
@@ -12,5 +13,6 @@ infna(data, estaciones)
 \item{estaciones}{conjunto de datos (dataframe) de las estaciones.}
 }
 \description{
-Información no disponible
+funcion para obtener la Informacion no disponible (NA's) de un conjunto de
+series de tiempo.
 }

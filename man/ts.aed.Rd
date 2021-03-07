@@ -2,7 +2,7 @@
 % Please edit documentation in R/ts.aed.R
 \name{ts.aed}
 \alias{ts.aed}
-\title{Serie de tiempo mensual para AED.}
+\title{Funcion para obtener la Serie de tiempo mensual para AED.}
 \usage{
 ts.aed(data, estaciones, i = NULL, col = NULL, variable = NULL, um = NULL)
 }
@@ -20,5 +20,5 @@ ts.aed(data, estaciones, i = NULL, col = NULL, variable = NULL, um = NULL)
 \item{um}{unidad de medida. ejm.: mm (Precipitación).}
 }
 \description{
-Serie de tiempo mensual para AED.
+Funcion para obtener la Serie de tiempo mensual para AED.
 }
