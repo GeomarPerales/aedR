@@ -37,7 +37,7 @@ La red de estaciones utilizada fue recolectada de la web del SENAMHI y ANA.
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/GeomarPerales/aedR/tree/main/images/stations.jpg">
+  <img width="460" height="300" src="images/stations.jpg">
 </p>
 
 
