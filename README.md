@@ -31,13 +31,13 @@ Las estaciones corresponden a la zona de estudio de la cuenca Huarpa, ubicada en
 
 Fig. 1: Cuenca Huarpa.
 
-  ![ScreenShot](images/cuenca.jpg?raw=true#center)
+  ![ScreenShot](inst/cuenca.jpg?raw=true#center)
 
 Fuente: Elaboración propia.
 
 Fig.2: red de estaciones de la cuenca Huarpa.
 
-  ![ScreenShot](images/stations.jpg?raw=true#center)
+  ![ScreenShot](inst/stations.jpg?raw=true#center)
   
 Fuente: Elaboración propia.
 
@@ -45,5 +45,4 @@ Fuente: Elaboración propia.
 
 * Pathak, M. (2014). Beginning Data Science with R.
 * Zumel, N., Mount, J. (2014). Practical Data Science with R.
-
  
