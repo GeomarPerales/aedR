@@ -37,7 +37,7 @@ La red de estaciones utilizada fue recolectada de la web del SENAMHI y ANA.
 
 
 <p align="center">
-  <img width="500" height="500" src="images/stations.jpg">
+  <img width="600" height="500" src="images/stations.jpg">
 </p>
 
 
