@@ -1,18 +1,19 @@
-#' Funcion para obtener el Diagrama de cajas (Boxplot) para AED mensual.
+#' Funcion para obtener el histograma de datos mensuales para AED.
 #'
 #' @param data conjunto de datos (dataframe) de series mensuales.
 #' @param estaciones conjunto de datos (dataframe) de las estaciones.
 #' @param i N° de orden (integer) de la estación
-#' @param col color de los datos dudosos (outliers).
+#' @param col color de los datos dudosos (outliers). --
 #' @param variable nombre de la variable hidrológica.
 #' @param um unidad de medida. ejm.: mm (Precipitación).
+#' @importFrom graphics hist
 #' @importFrom graphics plot
 #' @export
-#' @name bp.aed
+#' @name his.aed
 #'
 
-bp.aed <- function( data, estaciones, i = NULL, col = NULL, variable = NULL,
-                    um = NULL){
+his.aed <- function( data, estaciones, i = NULL, col = NULL, variable = NULL,
+                     um = NULL){
   if(is.data.frame(data)) {
     data = data
   } else {
@@ -34,7 +35,7 @@ bp.aed <- function( data, estaciones, i = NULL, col = NULL, variable = NULL,
   }
 
   if(is.null(col)){
-    col = "red"
+    col = "navy"
   } else if(is.character(col)){
     col = col
   } else {
@@ -58,10 +59,12 @@ bp.aed <- function( data, estaciones, i = NULL, col = NULL, variable = NULL,
   }
   colnames(data)[1] <- "Fecha"
   colnames(estaciones)[1] <- "Estacion"
-  bp.data <- data.frame( data, meses = months(data$Fecha,3))
-  meses <- factor(bp.data$meses, levels = unique(months(bp.data$Fecha,3)))
-  plot(x = meses, y = bp.data[,i], xlab = "Tiempo (meses)",
-       ylab = paste0( variable, " [",um,"/mes]"), main = estaciones$Estacion[i-1],
-       cex = 1, outcol = col, outpch = 16)
+  h <- hist(data[,i], plot = FALSE)
+  h$density <- h$counts/sum(h$counts)*100
+  plot( h, freq = FALSE, xlab = "Tiempo (meses)", lwd = 2, col = col,
+        ylab = paste0( variable, " [",um,"/mes]"), main = estaciones$Estacion[i-1])
 }
+
+
+
 

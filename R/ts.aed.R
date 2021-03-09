@@ -12,7 +12,8 @@
 #' @name ts.aed
 #'
 
-ts.aed <- function( data, estaciones, i = NULL, col = NULL, variable = NULL, um = NULL){
+ts.aed <- function( data, estaciones, i = NULL, col = NULL, variable = NULL,
+                    um = NULL){
   if(is.data.frame(data)) {
     data = data
   } else {
