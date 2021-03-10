@@ -19,7 +19,8 @@ datos de 22 estaciones del Perú y series mensuales históricas de precipitació
 
 * Diagrama de cajas
 * Series de tiempo
-* Resumen estadístico: minimo, 1° cuartil, fecha del máximo, 3° cuartil, máximo.
+* Histograma de datos mensuales
+* Resumen estadístico: mínimo, 1° cuartil, fecha del máximo, 3° cuartil, máximo.
 * Información no disponible
 * Información de datos dudosos (outliers).
 
@@ -35,7 +36,7 @@ Fig. 1: Cuenca Huarpa.
 
 Fuente: Elaboración propia.
 
-Fig.2: red de estaciones de la cuenca Huarpa.
+Fig. 2: red de estaciones de la cuenca Huarpa.
 
   ![ScreenShot](inst/stations.jpg?raw=true#center)
   
