@@ -1,3 +1,5 @@
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=navy)
+
 # **aedR: Análisis exploratorio de datos en R**
 
 ## Introducción
