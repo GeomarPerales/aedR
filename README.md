@@ -1,4 +1,4 @@
-https://get-badge.herokuapp.com/:GeomarPerales/:aedR
+https://get-badge.herokuapp.com/GeomarPerales/aedR
 # **aedR: Análisis exploratorio de datos en R**
 
 ## Introducción
