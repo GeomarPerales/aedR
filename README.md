@@ -1,5 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/<GeomarPerales>/<aedR>/total.svg)]()
-https://get-badge.herokuapp.com/GeomarPerales/aedR
+[![Github All Releases](https://img.shields.io/github/downloads/GeomarPerales/aedR/total.svg)]()
 # **aedR: Análisis exploratorio de datos en R**
 
 ## Introducción
