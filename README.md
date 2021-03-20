@@ -1,4 +1,4 @@
-https://github.com/downloads/GeomarPerales/aedR/total.svg
+downloads/https://github.com/GeomarPerales/aedR/total.svg
 # **aedR: Análisis exploratorio de datos en R**
 
 ## Introducción
