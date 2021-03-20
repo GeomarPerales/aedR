@@ -1,3 +1,4 @@
+[![Downloads](https://github.com/GeomarPerales/aedR)](https://github.com/GeomarPerales/aedR)
 # **aedR: Análisis exploratorio de datos en R**
 
 ## Introducción
