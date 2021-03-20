@@ -1,4 +1,4 @@
-[![Downloads](https://pepy.tech/badge/video2tfrecord)](https://github.com/GeomarPerales/aedR)
+[![Downloads](https://github.com/GeomarPerales/aedR)](https://github.com/GeomarPerales/aedR)
 # **aedR: Análisis exploratorio de datos en R**
 
 ## Introducción
