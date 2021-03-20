@@ -1,3 +1,4 @@
+downloads/<user>/<repo>/total.svg
 # **aedR: Análisis exploratorio de datos en R**
 
 ## Introducción
