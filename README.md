@@ -1,4 +1,3 @@
-[![Github Downloads (total)](https://img.shields.io/github/downloads/GeomarPerales/aedR/total.svg)]()
 # **aedR: Análisis exploratorio de datos en R**
 
 ## Introducción
