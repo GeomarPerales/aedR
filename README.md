@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/GeomarPerales/aedR/total.svg)]()
+[![Downloads](https://pepy.tech/badge/video2tfrecord)](https://pepy.tech/project/video2tfrecord)
 # **aedR: Análisis exploratorio de datos en R**
 
 ## Introducción
