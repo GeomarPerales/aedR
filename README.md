@@ -2,7 +2,7 @@
 
 ## Introducción
 
-AedR es una librería que contiene algunas herramientas gráficas y de resumen estadístico para realizar análisis exploratorio de datos.
+AedR es un paquete que contiene algunas herramientas gráficas y de resumen estadístico para realizar análisis exploratorio de datos.
 
 ## Instalación
 
